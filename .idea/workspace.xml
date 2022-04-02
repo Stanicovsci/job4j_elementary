@@ -44,6 +44,9 @@
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectId" id="25h9J3IirFVHYdEgTHvzKVioIbi" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -56,9 +59,9 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="org.infernus.idea.checkstyle.CheckStyleConfigurable" />
   </component>
-  <component name="RunManager" selected="Application.Calculator">
-    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.job4j.calculator.Calculator" />
+  <component name="RunManager" selected="Application.ArgMethod">
+    <configuration name="ArgMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.job4j.calculator.ArgMethod" />
       <module name="elementary" />
       <extension name="coverage">
         <pattern>
@@ -70,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Info (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.job4j.Info.ru.job4j.Info" />
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.job4j.calculator.Calculator" />
       <module name="elementary" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.job4j.Info.ru.job4j.*" />
+          <option name="PATTERN" value="ru.job4j.calculator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArgMethod" />
         <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.Info" />
         <item itemvalue="Application.Info (2)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Info (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -183,7 +186,21 @@
       <option name="project" value="LOCAL" />
       <updated>1646040644625</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Info">
+      <created>1648889268071</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1648889268071</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Info">
+      <created>1648889439027</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1648889439027</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
