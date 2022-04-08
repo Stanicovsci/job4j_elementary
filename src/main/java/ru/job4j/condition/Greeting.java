@@ -8,5 +8,8 @@ public class Greeting {
         int year = 2022;
         idea = "I like Java!" + year;
         System.out.println(idea);
+        long l = 129;
+        byte b = (byte) l;
+        System.out.println("Результат вычисления: " + b);
     }
-}
+} 
